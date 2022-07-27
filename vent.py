@@ -1,4 +1,4 @@
-# This equation is in no way to be implemented in a medical setting. It is merely for information purposes only.
+# This equation is in NO WAY to be implemented in a medical setting. It is merely for EDUCATIONAL PURPOSES ONLY.
 # This script will give you a desired respiratory rate to adjust your ventilator following the initation of mechanical ventilation.
 # It is only to be used as a guideline (educational purposes only).
 
